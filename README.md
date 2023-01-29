@@ -1,6 +1,8 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
 This is the practice repository for all of the projects in the bradtraversy course.
+Please check the branches for a particular project.
+
 
 -   [Course Link](https://www.udemy.com/course/50-projects-50-days)
 -   [Course Info Website](https://50projects50days.com)
